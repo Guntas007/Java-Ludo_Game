@@ -17,4 +17,4 @@ This project presents a **Ludo Game User Interface (UI)** developed using Java's
 
 ---
 
-This project reflects my interest in game development and serves as a stepping stone toward creating a fully functional Ludo game. Feedback and suggestions are welcome!
+This project reflects my interest in game development and serves as a stepping stone toward creating a fully functional Ludo game. Feedback and suggestions are welcome! You can reach me at guntas235@gmail.com
