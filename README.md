@@ -7,7 +7,11 @@ This project presents a **Ludo Game User Interface (UI)** developed using Java's
 ## Key Features:
 - **Interactive Grid-Based Layout**: Designed using Java’s GridLayout to reflect the grid-based movement of pucks in the traditional Ludo game.
 - **Fully Functional UI**: All interface elements are responsive and visually complete, providing a solid foundation for integrating game logic.
-![image](https://github.com/user-attachments/assets/037ba27c-a3c0-4837-9b34-5e2c5daa7cbc)
+
+---
+
+## Visuals of the UI:
+- Full window: ![image](https://github.com/user-attachments/assets/037ba27c-a3c0-4837-9b34-5e2c5daa7cbc)
 
 ---
 
