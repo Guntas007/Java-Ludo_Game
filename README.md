@@ -11,8 +11,12 @@ This project presents a **Ludo Game User Interface (UI)** developed using Java's
 ---
 
 ## Visuals of the UI:
-- Full window: ![image](https://github.com/user-attachments/assets/037ba27c-a3c0-4837-9b34-5e2c5daa7cbc)
-
+- Full Window: ![image](https://github.com/user-attachments/assets/037ba27c-a3c0-4837-9b34-5e2c5daa7cbc)
+- Help Window: ![image](https://github.com/user-attachments/assets/67a29b00-b190-4c0d-8437-dc1fd9d9d682)
+- About Section: ![image](https://github.com/user-attachments/assets/aeb9288b-f77c-4260-b576-e1b0bbc1f62b)
+- Feedback Option: This asks permission to open your mailing application. It then opens the mailing application with my email Id mention in the "TO: " section. ![image](https://github.com/user-attachments/assets/8ed63d51-8767-4d1e-8227-347a5264629b)
+- Exit option: Exits the application.
+  
 ---
 
 ## Future Plans:
